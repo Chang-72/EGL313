@@ -15,7 +15,6 @@ this is for ***Heading 3***
 
 # inserting a image
 To insert a image you will need to drag and hold shift plus drop
-
 ![alt text](photo_6093562925571754037_y.jpg)
 [click here to link](https://www.instagram.com/reel/C-nrT7FyTol/)
 
